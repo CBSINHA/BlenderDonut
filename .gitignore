@@ -1,0 +1,9 @@
+*.blend1
+*.blend2
+__pycache__/
+*.tmp
+*.bak
+*.autosave
+*.log
+*.DS_Store
+*.blend@*
